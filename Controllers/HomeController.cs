@@ -1,6 +1,6 @@
-﻿using System.Diagnostics;
+﻿using GestionVehiculos.Models;
 using Microsoft.AspNetCore.Mvc;
-using GestionVehiculos.Models;
+using System.Diagnostics;
 
 namespace GestionVehiculos.Controllers;
 
